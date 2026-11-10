@@ -32,7 +32,7 @@ VALUES
 (6, 'Neha', 'Science', 74, 'Final'),
 (6, 'Neha', 'English', 80, 'Final');
 
-
+#dont use 2 where clause use case with select only and group by schould be with a var not table 
 SELECT
     student_id,
     student_name,
